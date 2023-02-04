@@ -1,0 +1,15 @@
+C:\Users\никита\Desktop\DZ#3\bin\Debug\net6.0\DZ#3.exe
+C:\Users\никита\Desktop\DZ#3\bin\Debug\net6.0\DZ#3.deps.json
+C:\Users\никита\Desktop\DZ#3\bin\Debug\net6.0\DZ#3.runtimeconfig.json
+C:\Users\никита\Desktop\DZ#3\bin\Debug\net6.0\DZ#3.dll
+C:\Users\никита\Desktop\DZ#3\bin\Debug\net6.0\DZ#3.pdb
+C:\Users\никита\Desktop\DZ#3\obj\Debug\net6.0\DZ#3.csproj.AssemblyReference.cache
+C:\Users\никита\Desktop\DZ#3\obj\Debug\net6.0\DZ#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\никита\Desktop\DZ#3\obj\Debug\net6.0\DZ#3.AssemblyInfoInputs.cache
+C:\Users\никита\Desktop\DZ#3\obj\Debug\net6.0\DZ#3.AssemblyInfo.cs
+C:\Users\никита\Desktop\DZ#3\obj\Debug\net6.0\DZ#3.csproj.CoreCompileInputs.cache
+C:\Users\никита\Desktop\DZ#3\obj\Debug\net6.0\DZ#3.dll
+C:\Users\никита\Desktop\DZ#3\obj\Debug\net6.0\refint\DZ#3.dll
+C:\Users\никита\Desktop\DZ#3\obj\Debug\net6.0\DZ#3.pdb
+C:\Users\никита\Desktop\DZ#3\obj\Debug\net6.0\DZ#3.genruntimeconfig.cache
+C:\Users\никита\Desktop\DZ#3\obj\Debug\net6.0\ref\DZ#3.dll
